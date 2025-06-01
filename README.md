@@ -76,7 +76,5 @@
     <i>Gracias por visitar mi perfil 🚀</i>
     <br/>
     <br/>
-    <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"/>
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="25"/>
   </samp>
 </div>
