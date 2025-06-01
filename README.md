@@ -46,7 +46,7 @@
     <samp>
       <h2 align="center">📈 Mis estadísticas</h2>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilioSanchez99&layout=compact&theme=gruvbox&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilioSanchez99&layout=compact&theme=gruvbox&hide_border=true&exclude_repo=mi-repo-de-html,otro-repo-no-relevante" />
       </p>
     </samp>
   </div>
@@ -57,9 +57,8 @@
   <div>
     <samp>
       <ul>
-        <li><strong>FinanPie</strong>: App de gestión financiera con Firebase y Material Design</li>
-        <li><strong>ConnectionMonitor</strong>: Vista para monitorear red en tiempo real en Android</li>
-        <li><strong>Gestor de Scripts</strong>: Herramienta con swipe, borrado masivo y UI personalizada</li>
+        <li><strong>FinanPie</strong>: App Android de gestión financiera con Firebase y Material Design</li>
+        <li><strong>Derrap</strong>: Aplicacion de escitorio java para la gestion de inventario y trabajo de un taller mecanico</li>
       </ul>
     </samp>
   </div>
