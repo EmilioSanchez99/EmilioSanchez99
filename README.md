@@ -1,9 +1,12 @@
 <div align="center">
   <h1 align="center">Hola  <img width="35" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> , soy Emilio Sánchez</h1>
-  <h4 align="center">
-    Desarrollador de apps Android y estudiante de desarrollo multiplataforma.<br>
-    Mira mi <a href="CV_Emilio_Sánchez_Vargas.pdf" target="_blank">CV</a> para saber más.
-  </h4>
+<h4 align="center">
+  Desarrollador de apps Android y estudiante de desarrollo multiplataforma.<br>
+  Mira mi <a href="https://github.com/EmilioSanchez99/EmilioSanchez99/blob/main/CV_Emilio_Sanchez_Vargas.pdf" target="_blank">CV</a> para saber más.
+</h4>
+
+
+
 </div>
 
 -----
